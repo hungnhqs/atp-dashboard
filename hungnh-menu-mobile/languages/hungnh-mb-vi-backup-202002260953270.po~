@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hùng NH Menu Mobile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-26 09:48+0000\n"
+"PO-Revision-Date: 2020-02-26 09:48+0000\n"
+"Last-Translator: Hùng NH <admin@hungnh.best>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: Hung-NH-MB.php:395
+msgid "Back to top"
+msgstr ""
+
+#: Hung-NH-MB.php:116
+msgid "Display"
+msgstr ""
+
+#: Hung-NH-MB.php:126
+msgid "Hide on Desktop"
+msgstr ""
+
+#: Hung-NH-MB.php:126
+msgid "Hide on mobile"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://hungnh.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hùng NH"
+msgstr ""
+
+#. Name of the plugin
+msgid "Hùng NH Menu Mobile"
+msgstr ""
+
+#: Hung-NH-MB.php:119
+msgid "IDs pages need show Menu Mobile"
+msgstr ""
+
+#: Hung-NH-MB.php:210
+msgid "Link button advice"
+msgstr ""
+
+#: Hung-NH-MB.php:202
+msgid "Link button call"
+msgstr ""
+
+#: Hung-NH-MB.php:190
+msgid "Link button cart"
+msgstr ""
+
+#: Hung-NH-MB.php:194
+msgid "Link button home"
+msgstr ""
+
+#: Hung-NH-MB.php:218
+msgid "Link button support"
+msgstr ""
+
+#: Hung-NH-MB.php:143
+msgid "Link Chat Zalo"
+msgstr ""
+
+#: Hung-NH-MB.php:135
+msgid "Link Favourite"
+msgstr ""
+
+#: Hung-NH-MB.php:159
+msgid "Link Live Chat"
+msgstr ""
+
+#: Hung-NH-MB.php:151
+msgid "Link Messenger"
+msgstr ""
+
+#: Hung-NH-MB.php:183
+msgid "Mail to"
+msgstr ""
+
+#: Hung-NH-MB.php:108
+msgid "Menu Mobile"
+msgstr ""
+
+#: Hung-NH-MB.php:108 Hung-NH-MB.php:113
+msgid "Menu Mobile Settings"
+msgstr ""
+
+#: Hung-NH-MB.php:38
+msgid "Messenger"
+msgstr ""
+
+#: Hung-NH-MB.php:167
+msgid "Note callback line 1"
+msgstr ""
+
+#: Hung-NH-MB.php:171
+msgid "Note callback line 2"
+msgstr ""
+
+#: Hung-NH-MB.php:175
+msgid "Note callback line 3"
+msgstr ""
+
+#: Hung-NH-MB.php:111
+msgid "Saved!"
+msgstr ""
+
+#: Hung-NH-MB.php:188
+msgid "Setting Menu Mobile"
+msgstr ""
+
+#: Hung-NH-MB.php:129
+msgid "Setting Menu PC"
+msgstr ""
+
+#: Hung-NH-MB.php:123
+msgid "Setting Other"
+msgstr ""
+
+#: Hung-NH-MB.php:33
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show menu mobile on your website (support desktop and mobile)."
+msgstr ""
+
+#: Hung-NH-MB.php:179
+msgid "Subject mail"
+msgstr ""
+
+#: Hung-NH-MB.php:206
+msgid "Text button advice"
+msgstr ""
+
+#: Hung-NH-MB.php:198
+msgid "Text button call"
+msgstr ""
+
+#: Hung-NH-MB.php:214
+msgid "Text button support"
+msgstr ""
+
+#: Hung-NH-MB.php:163
+msgid "Text show Call back"
+msgstr ""
+
+#: Hung-NH-MB.php:139
+msgid "Text show Chat Zalo"
+msgstr ""
+
+#: Hung-NH-MB.php:131
+msgid "Text show Favourite"
+msgstr ""
+
+#: Hung-NH-MB.php:155
+msgid "Text show Live Chat"
+msgstr ""
+
+#: Hung-NH-MB.php:147
+msgid "Text show Messenger"
+msgstr ""
+
+#: Hung-NH-MB.php:113
+msgid "Version"
+msgstr ""
